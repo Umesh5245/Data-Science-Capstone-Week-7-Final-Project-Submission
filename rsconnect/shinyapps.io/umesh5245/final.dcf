@@ -1,0 +1,12 @@
+name: final
+title: final
+username:
+account: umesh5245
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2681750
+bundleId: 3530565
+url: https://umesh5245.shinyapps.io/final/
+when: 1597769359.53935
+asMultiple: FALSE
+asStatic: FALSE
